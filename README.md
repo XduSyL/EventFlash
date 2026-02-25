@@ -51,7 +51,23 @@ Other requirments
 pip install -r requirments.txt
 ```
 
+## 🔥 News
+•   💻 Code and dataset coming soon.
 
+•	**[2026-02-03]** 📄 Check out our [paper](https://arxiv.org/pdf/2602.03230) on arXiv and discover the details of EventFlash! 🎉
+
+
+
+## 📃Citation
+
+```
+@article{liu2026eventflash,
+  title={EventFlash: Towards Efficient MLLMs for Event-Based Vision},
+  author={Liu, Shaoyu and Li, Jianing and Zhao, Guanghui and Zhang, Yunjian and Jiang, Wen and Li, Ming and Ji, Xiangyang},
+  journal={arXiv preprint arXiv:2602.03230},
+  year={2026}
+}
+```
 
 
 
