@@ -1,9 +1,9 @@
-<!-- <div align="center">
+<div align="center">
   <img src="assets/logo.png" alt="logo" width="20%">
 </div>
 
-<div align="center"> -->
-<div align=center>
+<div align="center">
+
 
 # EventFlash: Towards Efficient MLLMs for Event-Based Vision
 ## <font size=6>🎉 Accepted to ICLR 2026 🎉</font>
