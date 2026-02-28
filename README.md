@@ -50,7 +50,7 @@ Other requirments
 ```
 pip install -r requirments.txt
 ```
-## Train
+## 🚀 Train
 ### Stage 1: Pre-training
 
 The first stage performs pre-training of the event-language alignment module.
@@ -58,6 +58,7 @@ The first stage performs pre-training of the event-language alignment module.
 ```
 bash ./scripts/pretrain.sh
 ```
+
 
 
 
