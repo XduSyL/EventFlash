@@ -58,8 +58,13 @@ The first stage performs pre-training of the event-language alignment module.
 ```
 bash ./scripts/pretrain.sh
 ```
+## 🔍 Inference
 
+This stage performs inference using the trained EventFlash model.
 
+```
+bash ./scripts/inference.sh
+```
 
 
 
