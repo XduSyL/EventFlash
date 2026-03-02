@@ -58,6 +58,11 @@ The first stage performs pre-training of the event-language alignment module.
 ```
 bash ./scripts/pretrain.sh
 ```
+
+### Stage 2: Supervised Fine-tuning
+Coming soon...
+
+
 ## 🔍 Inference
 
 This stage performs inference using the trained EventFlash model.
