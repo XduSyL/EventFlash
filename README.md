@@ -50,6 +50,16 @@ Other requirments
 ```
 pip install -r requirments.txt
 ```
+
+## 📊 Datasets
+
+We introduce **EventMind**, a large-scale and diverse dataset for event-based multimodal understanding. It supports a wide range of tasks, including spatial reasoning, action recognition, and causal reasoning, with both short and long event sequences.
+
+- 🌐 **Download**: https://modelscope.cn/datasets/XduSyL/EventMind  
+- 📌 **Platform**: ModelScope  
+- 🧠 **Tasks**: Spatial reasoning, temporal understanding, action recognition, and more  
+
+
 ## 🚀 Train
 ### Stage 1: Pre-training
 
