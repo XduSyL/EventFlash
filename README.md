@@ -74,8 +74,8 @@ bash ./scripts/inference.sh
 
 
 ## 🔥 News
-•   💻 Code and dataset coming soon.
-
+•   💻 Total Code coming soon.
+- **[2026-04-09]** 📊 Our dataset [EventMind](https://modelscope.cn/datasets/XduSyL/EventMind) is now available on ModelScope. Explore it for more details! 🚀
 •	**[2026-02-03]** 📄 Check out our [paper](https://arxiv.org/pdf/2602.03230) on arXiv and discover the details of EventFlash! 🎉
 
 
